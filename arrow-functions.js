@@ -46,3 +46,5 @@ Can you see it
 `
 )
 console.log(returnMultipleLines())
+
+console.log(returnMultipleLines())
